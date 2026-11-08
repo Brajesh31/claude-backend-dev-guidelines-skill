@@ -30,3 +30,7 @@ Ask your AI coding assistant to use **Backend Development Guidelines** when work
 ## License
 
 MIT License. See [LICENSE](LICENSE).
+
+## Additional Resources
+
+Added eleven guides covering architecture, routing/controllers, services/repositories, validation, monitoring, middleware, database patterns, configuration, async/error handling, testing, and complete workflow examples.
